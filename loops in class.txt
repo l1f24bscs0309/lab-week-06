@@ -1,0 +1,18 @@
+In programming language loop is used to control the flow of structure that allow to repeat a block of code multiple time . It helps to repeat multiple code or same set of instructions again and again. The loops are divided into two basic types . Logical and counter loops .(pre or post entry loops) (Entry or exit control loops)
+
+Syntax of entry :
+Condition 
+{
+set of statements
+}
+
+
+
+syntax of exit :
+{
+set of statements
+}
+condition
+
+
+while / do while / for / nested loops 
